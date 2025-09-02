@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#4B5563"               # Soft charcoal for highlights and buttons
+backgroundColor="#FAF9F6"            # Warm off-white background
+secondaryBackgroundColor="#F5F3EF"   # Slightly darker cream for sidebar/panels
+textColor="#262626"                  # Rich dark gray for easy readability
+font="serif"
