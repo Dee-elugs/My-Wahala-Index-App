@@ -1,5 +1,0 @@
-openai
-streamlit
-requests
-beautifulsoup4
-pandas
